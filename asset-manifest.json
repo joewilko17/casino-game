@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/casino-game/static/css/main.e51438e2.css",
+    "main.js": "/casino-game/static/js/main.fde7a5ad.js",
+    "static/js/453.fd256414.chunk.js": "/casino-game/static/js/453.fd256414.chunk.js",
+    "index.html": "/casino-game/index.html",
+    "main.e51438e2.css.map": "/casino-game/static/css/main.e51438e2.css.map",
+    "main.fde7a5ad.js.map": "/casino-game/static/js/main.fde7a5ad.js.map",
+    "453.fd256414.chunk.js.map": "/casino-game/static/js/453.fd256414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e51438e2.css",
+    "static/js/main.fde7a5ad.js"
+  ]
+}
